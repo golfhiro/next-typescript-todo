@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.4.0",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
     "textlint": "^14.0.1"
@@ -21,5 +21,8 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
     "typescript": "^5"
+  },
+  "volta": {
+    "node": "20.11.0"
   }
 }
